@@ -6,8 +6,8 @@ aim to achieve an accuracy greater than 0.9779. This is the benchmark set by the
 
 C1W1_Assignment.ipynb:
 Multiple Output Models using the Keras Functional API
-(Coursera course 1 of Custom Models, Layers, and Loss Functions with TensorFlow provided by DeepLearning.AI)
+(Coursera course 1 week 1 of Custom Models, Layers, and Loss Functions with TensorFlow provided by DeepLearning.AI)
 
-C1W1_Assignment.ipynb:
+C1W2_Assignment.ipynb:
 Creating a Custom Loss Function
-(Coursera course 2 of Custom Models, Layers, and Loss Functions with TensorFlow provided by DeepLearning.AI)
+(Coursera course 1 week 2 of Custom Models, Layers, and Loss Functions with TensorFlow provided by DeepLearning.AI)
