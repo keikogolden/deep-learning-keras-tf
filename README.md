@@ -44,8 +44,8 @@ Exploring TTS and SSML.
 
 7. other-projects
 Research and anlysis project I took at SkyHive. For the Japanese related linguistic research and anlysis, you can see these two files:
-1. KE_50_Audit New Skills on Front End
-2. KE_50_ Audit New Skills on Front End - with Newly Added JA
+- KE_50_Audit New Skills on Front End
+- KE_50_ Audit New Skills on Front End - with Newly Added JA
 
 
 
