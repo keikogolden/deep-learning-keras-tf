@@ -12,4 +12,5 @@ C1W2_Assignment.ipynb:
 Creating a Custom Loss Function
 (Coursera course 1 week 2 of Custom Models, Layers, and Loss Functions with TensorFlow provided by DeepLearning.AI)
 
-C1W3_Assignment.ipynb:
+C1W3_Assignment.ipynb:Implement a Quadratic Layer
+(Coursera course 1 week 2 of Custom Models, Layers, and Loss Functions with TensorFlow provided by DeepLearning.AI)
