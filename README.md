@@ -20,19 +20,24 @@ Creating a Custom Loss Function
 -------Followings are the folders in this directory------------------------------------------------------------------------------------------
 
 AmazonLexLambdaPython-not a codabasics material
-This is a project to create an order ice cream chatbot using AmazonLex and Amazon Lambda. https://www.youtube.com/playlist?list=PLGhcieJ42HtH7fksyhSnTu4mv6G1HsU9o
+This is a project to create an order ice cream chatbot using AmazonLex and Amazon Lambda. 
+https://www.youtube.com/playlist?list=PLGhcieJ42HtH7fksyhSnTu4mv6G1HsU9o
 
 Coursera TensofFlow
 This folder contains projects of the Coursera courses " Custom Models, Layers, and Loss Functions with TensorFlow" that I a taking now.
+https://www.coursera.org/learn/custom-models-layers-loss-functions-with-tensorflow/home/week/4
 
 LLM_Deep_Learning_TensorFlow_Keras_tutorial
 This is the folder for the codebasic tutorial, LLM Deep Learning TensorFlow Keras.
+https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO
 
 MyFirstChatbot
-This is the project of making a chatbot who take care of Indian restaurant order. Used Google Dialogflow as a chatbot framework, FastAPI as a web framework, and MySQL for the database storage.
+This is the project of making a chatbot who take care of Indian restaurant order. Used Google Dialogflow as a chatbot framework, FastAPI as a web framework, and MySQL for the database storage. 
+https://codebasics.io/resources/end-to-end-nlp-chatbot-project
 
 NLP Tutorial
 This files contains a little NLP projets I took more than 2 years ago.
+https://www.bing.com/videos/search?q=codebasics+NLP+tutorial&qpvt=codebasics+NLP+tutorial&FORM=VDRE
 
 TTS_SSML
 Exploring TTS and SSML.
