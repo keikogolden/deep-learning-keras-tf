@@ -7,14 +7,14 @@ aim to achieve an accuracy greater than 0.9779. This is the benchmark set by the
 
 2. C1W1_Assignment.ipynb:
 Multiple Output Models using the Keras Functional API
-(Coursera course 1 week 1 of Custom Models, Layers, and Loss Functions with TensorFlow provided by DeepLearning.AI)
+(Coursera course 1 week 1 of Tensorflow Adcanced Techniques:Custom Models, Layers, and Loss Functions with TensorFlow provided by DeepLearning.AI)
 
 3. C1W2_Assignment.ipynb:
 Creating a Custom Loss Function
-(Coursera course 1 week 2 of Custom Models, Layers, and Loss Functions with TensorFlow provided by DeepLearning.AI)
+(Coursera course 1 week 2 of Tensorflow Adcanced Techniques: Custom Models, Layers, and Loss Functions with TensorFlow provided by DeepLearning.AI)
 
 4. C1W3_Assignment.ipynb:Implement a Quadratic Layer
-(Coursera course 1 week 2 of Custom Models, Layers, and Loss Functions with TensorFlow provided by DeepLearning.AI)
+(Coursera course 1 week 3 of Tensorflow Adcanced Techniques: Custom Models, Layers, and Loss Functions with TensorFlow provided by DeepLearning.AI)
 
 
 -------Followings are the folders in this directory------------------------------------------------------------------------------------------
