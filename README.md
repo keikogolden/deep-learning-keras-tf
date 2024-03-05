@@ -16,6 +16,9 @@ Creating a Custom Loss Function
 4. C1W3_Assignment.ipynb:Implement a Quadratic Layer
 (Coursera course 1 week 3 of Tensorflow Adcanced Techniques: Custom Models, Layers, and Loss Functions with TensorFlow provided by DeepLearning.AI)
 
+5. C1W4_Assignment.ipynb:Create a VGG network
+(Coursera course 1 week 3 of Tensorflow Adcanced Techniques: Custom Models, Layers, and Loss Functions with TensorFlow provided by DeepLearning.AI)
+
 
 -------Followings are the folders in this directory------------------------------------------------------------------------------------------
 
