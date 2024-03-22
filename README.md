@@ -45,10 +45,7 @@ https://www.bing.com/videos/search?q=codebasics+NLP+tutorial&qpvt=codebasics+NLP
 6. TTS_SSML
 Exploring TTS and SSML.
 
-7. other-projects
-Research and anlysis project I took at SkyHive. For the Japanese related linguistic research and anlysis, you can see these two files:
-- KE_50_Audit New Skills on Front End
-- KE_50_ Audit New Skills on Front End - with Newly Added JA
+
 
 
 
